@@ -1,0 +1,16 @@
+.ruban{
+	display: flex;
+	padding: 20px 0px;
+	align-items: center;
+	border-radius: 0px;
+	flex-basis: 250px;
+	position: fixed;
+	background-color: rgba(241, 244, 245);
+	width: 100%;
+	justify-content: center;
+}
+
+.ruban img{
+	width: 150px;
+}
+ 

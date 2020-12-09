@@ -1,0 +1,12 @@
+.btn-blue{
+	padding: 10px;
+	display: flex;
+
+	border-radius: 3px;
+	margin: 3px;
+	color: white;
+	background-color: #5c91c3;
+	flex-grow: 1;
+	justify-content: center;
+}
+
